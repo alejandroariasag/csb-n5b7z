@@ -27,6 +27,6 @@ a {
   font-size: 13px;
   line-height: 17px;
   text-decoration-line: underline;
-
   color: #382ae1;
+  cursor: pointer;
 }

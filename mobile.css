@@ -74,10 +74,17 @@ body {
   line-height: 50px;
   margin-top: 24px;
 }
+.buy:hover {
+  cursor: pointer;
+}
 
 .cancel {
   text-align: center;
   font-weight: 900;
   margin-top: 24px;
   color: #717fa6;
+}
+
+.cancel:hover {
+  cursor: pointer;
 }
