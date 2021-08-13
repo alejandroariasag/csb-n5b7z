@@ -76,6 +76,7 @@ body {
 }
 .buy:hover {
   cursor: pointer;
+  background: #766cf1;
 }
 
 .cancel {
@@ -87,4 +88,5 @@ body {
 
 .cancel:hover {
   cursor: pointer;
+  color: #1f2e55;
 }

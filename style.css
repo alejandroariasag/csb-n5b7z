@@ -30,3 +30,8 @@ a {
   color: #382ae1;
   cursor: pointer;
 }
+
+a:hover {
+  color: #766cf1;
+  text-decoration: none;
+}
