@@ -2,7 +2,7 @@
 
 This is a solution to the [Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-![Screenshot](https://github.com/aleckbeu/Order-summary-component/blob/gh-pages/images/screenshot.png?raw=true)
+![Screenshot](https://github.com/swckd/Order-summary-component/blob/gh-pages/images/screenshot.png?raw=true)
 
 ## Table of contents
 
@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- GitHub URL : https://github.com/aleckbeu/Order-summary-component/
-- Live Site URL: https://aleckbeu.github.io/Order-summary-component/
+- GitHub URL : https://github.com/swckd/Order-summary-component/
+- Live Site URL: https://swckd.github.io/Order-summary-component/
 
 ## My process
 
@@ -41,4 +41,4 @@ Users should be able to:
 
 ## Author
 
-- Website - https://www.aleckbeu.com
+- Website - 
